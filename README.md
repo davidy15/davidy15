@@ -1,0 +1,3 @@
+- 👋 ola meu nome é davidy 
+- 👀 eu estou entereçado em: todo tipo de programação
+- 🌱 atuaumente eu estou apremdendo programação
